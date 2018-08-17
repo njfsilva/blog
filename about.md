@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I'm Nelson, I'm a software engineer and I like to write about the software industry. In this blog you will find my opinion regarding various industry related themes, technologies and future outlooks.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you'd like to contact me you can find all my various social media in this blog's footer, or just drop me an email at: [blog@nelsonsilva.net](mailto:email@domain.com)
