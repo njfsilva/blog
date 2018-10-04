@@ -1,14 +1,14 @@
 ---
 layout: post
 comments: true
-title: Hello, My name is Nelson
+title: Hello, my name is Nelson
 ---
 
 
 
 ​	Over what probably constitutes the better part of the last 12 months, I have been contemplating starting a blog.
 
-​	I have done it before, in fact I was fairly relevant blogger back in 2008 (shoutout to the boys still running [Planetgeek](http://planetgeek.org), after all these years), but back then, blogging was so new and exciting the mere fact that you were doing it was enough to get you noticed.
+​	I have done it before, in fact I was fairly relevant blogger back in 2008 (shoutout to the boys still running [Planetgeek](http://planetgeek.org), after all these years), but back then, blogging was so new and exciting that the mere fact that you were doing it was enough to get you noticed.
 
 ​	I am not going to lie, I was mostly writing back then because it was exciting and new too, but most of what I wrote about was, looking back, fairly childish and provocateur. There were very little thought provoking arguments, and most of what I did was complain about whatever popular technologies were hip back then (I was going through a Linux/hate on Apple phase). In retrospect, I'm guessing this was fairly common for an 18-19 year old teenager who was into technology and liked rambling on the internet. 
 
