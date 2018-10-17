@@ -79,7 +79,7 @@ It depends on the particular needs of your project obviously, but I would argue 
 
 
 
-Sadly, most of the time the industry tends to think dragging a mouse around a screen pressing on buttons to maybe find one that breaks something qualifies as quality assurance. Sure, part of the job is to do just that, but reducing such an important job it to, denies its greatness. A good QA engineer will write automated tests, will make sure your continuous deployment scheme fails as soon as possible, and will make sure the logging information collected has the necessary information for proper debugging. 
+Sadly, most of the time the industry tends to think dragging a mouse around a screen pressing on buttons to maybe find one that breaks something qualifies as quality assurance. Sure, part of the job is to do just that, when a particular feature does not lend itself to proper test automation, but reducing such an important job to mouse clicking denies its greatness. A good QA engineer will write automated tests, will make sure your continuous deployment scheme fails as soon as possible, and will make sure the logging information collected has the necessary information for proper debugging. 
 
 
 
