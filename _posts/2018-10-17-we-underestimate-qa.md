@@ -1,11 +1,9 @@
 ---
 layout: post
 comments: true
-title: We underestimate QA
+title: We underestimate Quality Assurance
 typora-copy-images-to: ..\images
 ---
-
-# We underestimate Quality Assurance
 
 As an industry, I don't think we understand the value of Quality Assurance properly, we think of QA as a safeguard against those "pesky developers" who do nothing right, and even as developers ourselves we tend to think writing tests is easy and requires no proper thought, all that matters is that we get high code coverage, as if in some way saying we have over 80% code coverage is some sort of bragging right. Having high coverage does not make it automatically "good" coverage, nor the "right" coverage.
 
